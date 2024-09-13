@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "13+bHVmbw1KzpykUtRxsmX1Ktd0fAmJXQrm+cpxniKY=",
+  "Source": "ecommapi",
+  "BasePath": "_content/ecommapi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

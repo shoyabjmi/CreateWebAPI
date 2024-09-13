@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ecommapi", "ecommapi\ecommapi.csproj", "{3C3E10B0-56E2-4FFC-AFD0-BAA9390B0650}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C3E10B0-56E2-4FFC-AFD0-BAA9390B0650}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C3E10B0-56E2-4FFC-AFD0-BAA9390B0650}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C3E10B0-56E2-4FFC-AFD0-BAA9390B0650}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C3E10B0-56E2-4FFC-AFD0-BAA9390B0650}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {892CB48D-4D0E-4104-9D0F-7C81B8B5CDFD}
+	EndGlobalSection
+EndGlobal

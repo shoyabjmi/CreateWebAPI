@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c sharp programs\\ecommapi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\c sharp programs\\ecommapi\\ecommapi\\Migrations\\20240912173759_InitialBrand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ecommapi\\Migrations\\20240912173759_InitialBrand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C3E10B0-56E2-4FFC-AFD0-BAA9390B0650}|ecommapi\\ecommapi.csproj|d:\\c sharp programs\\ecommapi\\ecommapi\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C3E10B0-56E2-4FFC-AFD0-BAA9390B0650}|ecommapi\\ecommapi.csproj|solutionrelative:ecommapi\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C3E10B0-56E2-4FFC-AFD0-BAA9390B0650}|ecommapi\\ecommapi.csproj|d:\\c sharp programs\\ecommapi\\ecommapi\\entity\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C3E10B0-56E2-4FFC-AFD0-BAA9390B0650}|ecommapi\\ecommapi.csproj|solutionrelative:ecommapi\\entity\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C3E10B0-56E2-4FFC-AFD0-BAA9390B0650}|ecommapi\\ecommapi.csproj|d:\\c sharp programs\\ecommapi\\ecommapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C3E10B0-56E2-4FFC-AFD0-BAA9390B0650}|ecommapi\\ecommapi.csproj|solutionrelative:ecommapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240912173759_InitialBrand.cs",
+              "DocumentMoniker": "D:\\c sharp programs\\ecommapi\\ecommapi\\Migrations\\20240912173759_InitialBrand.cs",
+              "RelativeDocumentMoniker": "ecommapi\\Migrations\\20240912173759_InitialBrand.cs",
+              "ToolTip": "D:\\c sharp programs\\ecommapi\\ecommapi\\Migrations\\20240912173759_InitialBrand.cs",
+              "RelativeToolTip": "ecommapi\\Migrations\\20240912173759_InitialBrand.cs",
+              "ViewState": "AQIAAAcAAAAAmZmZmZn5vwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T17:38:00.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Brand.cs",
+              "DocumentMoniker": "D:\\c sharp programs\\ecommapi\\ecommapi\\Entity\\Brand.cs",
+              "RelativeDocumentMoniker": "ecommapi\\Entity\\Brand.cs",
+              "ToolTip": "D:\\c sharp programs\\ecommapi\\ecommapi\\Entity\\Brand.cs",
+              "RelativeToolTip": "ecommapi\\Entity\\Brand.cs",
+              "ViewState": "AQIAAAcAAAAALDMzMzPjvwsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T17:34:10.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\c sharp programs\\ecommapi\\ecommapi\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ecommapi\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\c sharp programs\\ecommapi\\ecommapi\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ecommapi\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAcAAABIZmZmZkY2wA4AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T17:33:02.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BrandController.cs",
+              "DocumentMoniker": "D:\\c sharp programs\\ecommapi\\ecommapi\\Controllers\\BrandController.cs",
+              "RelativeDocumentMoniker": "ecommapi\\Controllers\\BrandController.cs",
+              "ToolTip": "D:\\c sharp programs\\ecommapi\\ecommapi\\Controllers\\BrandController.cs",
+              "RelativeToolTip": "ecommapi\\Controllers\\BrandController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T17:28:09.725Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
